@@ -4,7 +4,7 @@ A modern, responsive travel landing page built with **React, JavaScript, and CSS
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [View Jadoo Landing Page](YOUR_DEPLOYMENT_URL_HERE)
+🔗 **Live Website:** [View Jadoo Landing Page](https://jadoo-react-landing-page-one.vercel.app/)
 
 ## 📸 Features
 
@@ -48,7 +48,7 @@ jadoo-react-landing-page/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jadoo-react-landing-page.git
+git clone https://github.com/OmPimple26/Jadoo-React-Landing-Page.git
 ```
 
 ### 2. Navigate to the project folder
